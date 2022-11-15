@@ -9816,6 +9816,13 @@ a.theme-btn-on-bg:active,
   border: none;
 }
 
+.project-links {
+  padding-left: 10px;
+  font-size: 12px;
+  padding-top: 3px;
+  color: gray;
+}
+
 .progress {
   border-radius: 2px;
 }
